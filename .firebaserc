@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "b349zhan-ecommerce"
+  },
+  "targets": {
+    "b349zhan-ecommerce": {
+      "hosting": {
+        "e_commerce": [
+          "b349zhan-ecommerce"
+        ]
+      }
+    }
   }
 }
